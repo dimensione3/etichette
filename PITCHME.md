@@ -1,3 +1,2 @@
----?image=http://res.cloudinary.com/dimensione3-srl/image/upload/v1526597734/PubblipelRicciarelli/1_COFFS024.jpg&size=auto 100%
----?image=http://res.cloudinary.com/dimensione3-srl/image/upload/v1526597729/PubblipelRicciarelli/1_COFFS026.jpg&size=auto 100%
----?image=http://res.cloudinary.com/dimensione3-srl/image/upload/v1526597730/PubblipelRicciarelli/1_COFFS027.jpg&size=auto 100%
+---?image=http://res.cloudinary.com/dimensione3-srl/image/upload/v1526597730/PubblipelRicciarelli/2_COFFS028.jpg&size=auto 100%
+---?image=http://res.cloudinary.com/dimensione3-srl/image/upload/v1526597730/PubblipelRicciarelli/2_COFFS029.jpg&size=auto 100%

@@ -2,7 +2,7 @@ theme : simple
 theme-override : assets/css/PITCHME.css
 # theme-override : assets/css/PITCHME.codemax.css
 highlight : atom-one-light
-logo : http://.jpg
+# logo : http://.jpg
 transition : slide
 published : true
-footnote : "<a style='text-decoration:none; color: white;' href='https://'>Name</a>"
+footnote : "<a style='text-decoration:none; color: white;' href='http://accessorifunerari.it'>Accessori Funerari</a>"

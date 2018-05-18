@@ -1,2 +1,4 @@
 ---?image=http://res.cloudinary.com/dimensione3-srl/image/upload/v1526597736/PubblipelRicciarelli/6_PRT033.jpg&size=auto 100%
+### [@fa[search-plus]](http://res.cloudinary.com/dimensione3-srl/image/upload/v1526597736/PubblipelRicciarelli/6_PRT033.jpg)
 ---?image=http://res.cloudinary.com/dimensione3-srl/image/upload/v1526597738/PubblipelRicciarelli/6_PRT037.jpg&size=auto 100%
+### [@fa[search-plus]](http://res.cloudinary.com/dimensione3-srl/image/upload/v1526597738/PubblipelRicciarelli/6_PRT037.jpg)

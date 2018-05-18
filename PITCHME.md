@@ -1,3 +1,6 @@
 ---?image=http://res.cloudinary.com/dimensione3-srl/image/upload/v1526597737/PubblipelRicciarelli/9_COFPR001.jpg&size=auto 100%
+### [@fa[search-plus]](http://res.cloudinary.com/dimensione3-srl/image/upload/v1526597737/PubblipelRicciarelli/9_COFPR001.jpg)
 ---?image=http://res.cloudinary.com/dimensione3-srl/image/upload/v1526597735/PubblipelRicciarelli/9_COFPR007.jpg&size=auto 100%
+### [@fa[search-plus]](http://res.cloudinary.com/dimensione3-srl/image/upload/v1526597735/PubblipelRicciarelli/9_COFPR007.jpg)
 ---?image=http://res.cloudinary.com/dimensione3-srl/image/upload/v1526597737/PubblipelRicciarelli/9_COFPR017.jpg&size=auto 100%
+### [@fa[search-plus]](http://res.cloudinary.com/dimensione3-srl/image/upload/v1526597737/PubblipelRicciarelli/9_COFPR017.jpg)

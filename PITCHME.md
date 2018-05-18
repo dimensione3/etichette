@@ -1,4 +1,2 @@
----?image=http://res.cloudinary.com/dimensione3-srl/image/upload/v1526597730/PubblipelRicciarelli/4_CAF005.jpg&size=auto 100%
----?image=http://res.cloudinary.com/dimensione3-srl/image/upload/v1526597733/PubblipelRicciarelli/4_CAF006.jpg&size=auto 100%
----?image=http://res.cloudinary.com/dimensione3-srl/image/upload/v1526597733/PubblipelRicciarelli/4_CAF013.jpg&size=auto 100%
----?image=http://res.cloudinary.com/dimensione3-srl/image/upload/v1526597733/PubblipelRicciarelli/4_CAF014.jpg&size=auto 100%
+---?image=http://res.cloudinary.com/dimensione3-srl/image/upload/v1526597735/PubblipelRicciarelli/5_BPD013.jpg&size=auto 100%
+---?image=http://res.cloudinary.com/dimensione3-srl/image/upload/v1526597734/PubblipelRicciarelli/5_BPD020.jpg&size=auto 100%

@@ -1,2 +1,2 @@
----?image=http://res.cloudinary.com/dimensione3-srl/image/upload/v1526597735/PubblipelRicciarelli/5_BPD013.jpg&size=auto 100%
----?image=http://res.cloudinary.com/dimensione3-srl/image/upload/v1526597734/PubblipelRicciarelli/5_BPD020.jpg&size=auto 100%
+---?image=http://res.cloudinary.com/dimensione3-srl/image/upload/v1526597736/PubblipelRicciarelli/6_PRT033.jpg&size=auto 100%
+---?image=http://res.cloudinary.com/dimensione3-srl/image/upload/v1526597738/PubblipelRicciarelli/6_PRT037.jpg&size=auto 100%
